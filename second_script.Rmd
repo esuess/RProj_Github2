@@ -1,0 +1,12 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is a test to see if this is set up correctly.
+
+```{r}
+plot(cars)
+```
+
+
